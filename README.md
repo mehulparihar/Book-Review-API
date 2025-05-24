@@ -8,7 +8,7 @@ A RESTful API for managing books and user reviews, built with **Node.js**, **Exp
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/mehulparihar/Book-Review-API.git
 cd book-review-api
 ```
 
